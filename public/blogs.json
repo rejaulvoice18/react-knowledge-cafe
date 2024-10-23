@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/VJVKDHK/image1.jpg",
+      "title": "The Future of AI: Trends to Watch",
+      "author_img": "https://i.ibb.co/thYtFTX/rejaul.jpg",
+      "author": "John Doe",
+      "posted_date": "2024-10-15",
+      "reading_time": 8,
+      "hashtags": ["#AI", "#Technology", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/L6qqSr2/image2.jpg",
+      "title": "A Beginner's Guide to Python Programming",
+      "author_img": "https://i.ibb.co/thYtFTX/rejaul.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2024-10-10",
+      "reading_time": 12,
+      "hashtags": ["#Python", "#Programming", "#Coding"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/ZSW5nW3/image3.jpg",
+      "title": "Sustainable Travel: Tips for an Eco-Friendly Journey",
+      "author_img": "https://i.ibb.co/thYtFTX/rejaul.jpg",
+      "author": "Alice Green",
+      "posted_date": "2024-10-05",
+      "reading_time": 6,
+      "hashtags": ["#Travel", "#Sustainability", "#EcoFriendly"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/9HrwsG5/image4.jpg",
+      "title": "Mastering Data Science: Essential Tools and Techniques",
+      "author_img": "https://i.ibb.co/thYtFTX/rejaul.jpg",
+      "author": "Michael Lee",
+      "posted_date": "2024-09-28",
+      "reading_time": 15,
+      "hashtags": ["#DataScience", "#MachineLearning", "#AI"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/v3DkTnD/image5.jpg",
+      "title": "Top 10 Hiking Trails Around the World",
+      "author_img": "https://i.ibb.co/thYtFTX/rejaul.jpg",
+      "author": "Emily Brown",
+      "posted_date": "2024-10-18",
+      "reading_time": 10,
+      "hashtags": ["#Travel", "#Hiking", "#Adventure"]
+    }
+  ]
+  
